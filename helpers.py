@@ -150,6 +150,7 @@ def love():
         "Ich liebe dich",
         "   Je t'aime",
         "    Te amo",
+        "0100100101001100\n01011001"
         ]
     
     for i in languages:
